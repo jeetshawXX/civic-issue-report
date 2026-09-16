@@ -65,26 +65,6 @@ https://github.com/jeetshawXX/civic-issue-report
 
 ---
 
-## 📸 Screenshots
-
-### Landing Page
-
-![Landing Page](Assets/Home.png)
-
-### Admin Dashboard
-
-![Admin Dashboard](Assets/AdminHome.png)
-
-### Citizen Dashboard
-
-![Citizen Dashboard](Assets/CitizenHome.png)
-
-### Report Issue Page
-
-![Report Issue](Assets/ReportIssue.png)
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
