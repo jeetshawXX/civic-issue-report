@@ -1,7 +1,6 @@
 import { MapPin, Mail, Phone, Github, Linkedin, X } from "lucide-react";
 import { Button } from "./ui/button";
 import civicIssueLogo from "../assets/civic-issue.png";
-import { Link } from "react-router-dom";
 import { handleSupportClick } from "./SupportModel";
 
 const Footer = () => {
